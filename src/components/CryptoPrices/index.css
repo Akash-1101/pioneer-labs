@@ -1,0 +1,30 @@
+/* CryptoPrices.css */
+.crypto-container {
+    margin: 20px;
+  }
+  
+  .crypto-cards {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .crypto-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    min-width: 200px;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .crypto-card h3 {
+    margin-top: 0;
+  }
+  
+  .crypto-card p {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
